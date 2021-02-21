@@ -1,0 +1,12 @@
+{
+  "name": "offline-mobile",
+  "displayName": "offline-mobile",
+  "expo": {
+    "name": "offline-mobile",
+    "slug": "offline-mobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
